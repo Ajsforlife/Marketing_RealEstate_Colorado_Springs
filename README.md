@@ -1,5 +1,7 @@
 # Where would people want to move?
 arcGis map : https://ajnum265mupkddmw.maps.arcgis.com/apps/dashboards/940f4b53644b4a4da4ebead33d40082c#mode=edit
+Username: ajsforlife@icloud.com 
+Password: Im2good4you!now
 
 basic ersi API: https://ajsforlife.github.io/interview/
 
