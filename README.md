@@ -5,7 +5,7 @@ basic ersi API: https://ajsforlife.github.io/interview/
 
 Tableau Dashboard: https://public.tableau.com/app/profile/andrew.stein4065/viz/Interview_16649156850390/Dashboard1?publish=yes
 
-![Crime by colorado springs Patrol](https://github.com/Ajsforlife/interview/blob/main/pictures/crimebypatrol.png)
+![Crime by colorado springs Patrol](https://github.com/Ajsforlife/interview/blob/main/pictures/chart%201.png)
 
 
-![Crime without specific patrol division](https://github.com/Ajsforlife/interview/blob/main/pictures/crime%20with%20lack%20of%20patrol.png)
+![Crime without specific patrol division](https://github.com/Ajsforlife/interview/blob/main/pictures/chart%202.png)
