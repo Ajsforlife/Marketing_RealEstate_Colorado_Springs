@@ -1,9 +1,9 @@
 # Where would people want to move?
-https://ajnum265mupkddmw.maps.arcgis.com/apps/dashboards/940f4b53644b4a4da4ebead33d40082c
+arcGis map : https://ajnum265mupkddmw.maps.arcgis.com/apps/dashboards/940f4b53644b4a4da4ebead33d40082c#mode=edit
 
-https://ajsforlife.github.io/interview/
+basic ersi API: https://ajsforlife.github.io/interview/
 
-https://public.tableau.com/app/profile/andrew.stein4065/viz/Interview_16649156850390/Dashboard1?publish=yes
+Tableau Dashboard: https://public.tableau.com/app/profile/andrew.stein4065/viz/Interview_16649156850390/Dashboard1?publish=yes
 
 ![Crime by colorado springs Patrol](https://github.com/Ajsforlife/interview/blob/main/pictures/crimebypatrol.png)
 
